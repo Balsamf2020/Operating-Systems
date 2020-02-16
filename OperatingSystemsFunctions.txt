@@ -1,0 +1,1 @@
+Among an operating system's main functions is its ability to manage a computer's resources including CPU usage, memory, and hard disk space. This management of resources allows for the execution of software and system related applications. Allowing the user to indirectly communicate and control the hardware.
